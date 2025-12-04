@@ -1,0 +1,19 @@
+# Encrypted seed (sensitive)
+encrypted_seed.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db

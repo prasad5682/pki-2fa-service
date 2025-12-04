@@ -1,0 +1,9 @@
+# Force LF endings for cron and shell scripts (Linux requirement)
+*.sh text eol=lf
+deploy/*.sh text eol=lf
+deploy/mycron text eol=lf
+cron/* text eol=lf
+cron/2fa-cron text eol=lf
+
+# Keep text files normalized
+* text=auto
